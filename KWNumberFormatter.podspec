@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = 'KWNumberFormatter is a library that facilitates easy handling of the decimal part of Double, Float, and Decimal types. It allows you to limit the number of decimal places or fill the decimal part with zeros. For the integer part, you can insert or remove commas as needed.'
-
+  s.swift_version    = '5.0'
   s.homepage         = 'https://github.com/AnnaBaeTofuMom/KWNumberFormatter'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'anna.bae' => 'annabae.dev@gmail.com' }
