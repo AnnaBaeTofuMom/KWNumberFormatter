@@ -22,7 +22,7 @@ pod 'KWNumberFormatter'
 
 ## Author
 
-anna.bae, anna.bae@coinone.com
+anna.bae, annabae.dev@gmail.com
 
 ## License
 
