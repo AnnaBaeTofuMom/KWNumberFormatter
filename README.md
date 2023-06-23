@@ -36,7 +36,7 @@ let decStr = formatter.format(number: decimal, comma: true, roundMode: .ceil, fi
 
 ```
 
-## About roundMode
+## About KWRoundMode
 
 The RoundMode in KWNumberFormatter is used for the decimal part of the number. For example, if you choose the "ceil" mode and specify the maximum number of decimal digits, the remaining decimal digits will be removed and the last digit will be rounded up.
 The "round" mode works like 'awayFromZero' of 'FloatingPointRoundingRule'

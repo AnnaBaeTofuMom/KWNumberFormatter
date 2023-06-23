@@ -8,7 +8,7 @@
 
 import Foundation
 
-public class KWFormatter {
+public final class KWFormatter {
     public init() { }
     
     /// 숫자(Double, Float, Decimal 지원), 천 단위 구분자 사용 여부, 소수점 플레이스홀더 필요 여부, 소수점 자리수를 순서대로 입력
