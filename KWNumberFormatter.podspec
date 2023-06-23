@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'KWNumberFormatter'
   s.version          = '0.1.0'
-  s.summary          = 'KWNumberFormatter is a library that facilitates easy handling of the decimal part of Double, Float, and Decimal types. It allows you to limit the number of decimal places or fill the decimal part with zeros. For the integer part, you can insert or remove commas as needed.'
+  s.summary          = 'KWNumberFormatter is a library that facilitates easy handling of the decimal part of Double, Float, and Decimal types.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
+  s.description      = 'KWNumberFormatter is a library that facilitates easy handling of the decimal part of Double, Float, and Decimal types. It allows you to limit the number of decimal places or fill the decimal part with zeros. For the integer part, you can insert or remove commas as needed.'
 TODO: Add long description of the pod here.
                        DESC
 
